@@ -1,0 +1,20 @@
+[package]
+name = 'bell'
+slug = 'bell'
+version = ''
+authors = ['Edwin Kofler <edwin@kofler.dev>']
+description = 'A simple shell written in Bash'
+
+[run]
+dependencies = []
+sourceDirs = []
+builtinDirs = []
+binDirs = []
+completionDirs = []
+manDirs = []
+
+[run.shellEnvironment]
+
+[run.setOptions]
+
+[run.shoptOptions]
